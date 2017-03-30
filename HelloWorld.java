@@ -1,4 +1,4 @@
-
+package com.examen;
 
 public class HelloWorld {
 
